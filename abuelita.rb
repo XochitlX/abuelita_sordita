@@ -10,3 +10,4 @@ def deaf_grandma(state)
 end
 
 deaf_grandma("go")
+deaf_grandma("scream")
